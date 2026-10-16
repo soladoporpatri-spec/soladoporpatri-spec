@@ -53,15 +53,6 @@ Um projeto para um lava-jato, com uma página de apresentação moderna e recurs
 
 **Tecnologias:** Next.js, React e TypeScript.
 
----
 
-## 📊 Meu GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soladoporpatri-spec&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soladoporpatri-spec&theme=radium&hide_border=true&background=0D1117" alt="Sequência de contribuições no GitHub" />
-</div>
-
----
 
 *Ainda tenho muito para aprender, muitas ideias para testar e projetos que quero tirar do papel. Esse perfil é um pouco do que venho construindo pelo caminho.*
