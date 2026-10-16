@@ -12,7 +12,7 @@ Não fico preso a uma única tecnologia. Gosto de experimentar ferramentas difer
 - 🛠️ Já trabalhei em projetos envolvendo sistemas web, dashboards, automações e chatbots.
 - 🧠 Estou sempre aprendendo alguma coisa nova e procurando maneiras melhores de desenvolver minhas ideias.
 - 💬 Tecnologias com as quais trabalho ou estudo: React, Next.js, C#, Docker, Python e JavaScript.
-- 📫 Contato: [Meu LinkedIn ou e-mail]
+- 📫 Contato: patriciosousapc@gmail.com
 
 ## 🧰 Tecnologias que uso
 
